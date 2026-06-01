@@ -461,7 +461,7 @@
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO"
   },
-    {
+  {
     "japanese": "シシシシシ",
     "romaji": "Shishishishi",
     "english": "Shishishi! (alt wording 30)",
@@ -504,43 +504,143 @@
     "character": "Rei Ayanami"
   },
   {
-    "quote": "People's lives don't end when they die. It ends when they lose faith.",
-    "character": "Itachi Uchiha",
-    "anime": "Naruto"
+    "japanese": "だが…それがいい。",
+    "romaji": "Daga... sore ga ii.",
+    "english": "But... that's what I like.",
+    "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "character": "Yoshikage Kira"
   },
   {
-    "japanese": "笑えばいいと思うよ",
-    "romaji": "Waraeba ii to omou yo",
-    "english": "I think you should just laugh.",
-    "anime": "Neon Genesis Evangelion",
-    "character": "Rei Ayanami"
+    "japanese": "逃げるのも勇気だぞ",
+    "romaji": "Nigeru no mo yuuki da zo",
+    "english": "Running away can take courage too.",
+    "anime": "Mob Psycho 100",
+    "character": "Arataka Reigen"
   },
   {
-    "japanese": "さらに向こうへ!プルスウルトラ!",
-    "romaji": "Sarani mukou e! Purusu Urutora!",
-    "english": "Go beyond! Plus Ultra! (alt wording 38)",
-    "anime": "My Hero Academia",
-    "character": "All Might"
+    "japanese": "オラに元気を分けてくれ!",
+    "romaji": "Ora ni genki o wakete kure!",
+    "english": "Lend me your energy!",
+    "anime": "Dragon Ball Z",
+    "character": "Son Goku"
   },
   {
-    "japanese": "仲間を信じることが俺の魔法だ",
-    "romaji": "Nakama o shinjiru koto ga ore no mahou da",
-    "english": "Believing in my friends is my magic. (alt wording 49)",
-    "anime": "Fairy Tail",
-    "character": "Natsu Dragneel"
+    "japanese": "貴様ッ！見ているなッ！！",
+    "romaji": "Kisama! Mite iru na!!",
+    "english": "You! You're watching me! (alt wording 11)",
+    "anime": "JoJo's Bizarre Adventure: Stone Ocean",
+    "character": "Jolyne Cujoh"
   },
   {
-    "japanese": "俺はガンダムだ！",
-    "romaji": "Ore wa Gandamu da!",
-    "english": "I am Gundam! (alt wording 25)",
-    "anime": "Mobile Suit Gundam 00",
-    "character": "Setsuna F. Seiei"
+    "japanese": "月に代わっておしおきよ!",
+    "romaji": "Tsuki ni kawatte oshioki yo!",
+    "english": "In the name of the moon, I'll punish you!",
+    "anime": "Sailor Moon",
+    "character": "Usagi Tsukino"
   },
   {
-  "japanese": "オラに元気を分けてくれ!",
-  "romaji": "Ora ni genki o wakete kure!",
-  "english": "Lend me your energy! (alt wording 52)",
-  "anime": "Dragon Ball Z",
-  "character": "Son Goku"
-}
+    "japanese": "月に代わっておしおきよ!",
+    "romaji": "Tsuki ni kawatte oshioki yo!",
+    "english": "In the name of the moon, I'll punish you! (alt wording 41)",
+    "anime": "Sailor Moon",
+    "character": "Usagi Tsukino"
+  },
+  {
+    "japanese": "グララララ",
+    "romaji": "Gurararara",
+    "english": "Gurararara! (alt wording 31)",
+    "anime": "One Piece",
+    "character": "Edward Newgate (Whitebeard)"
+  },
+  {
+    "japanese": "レロレロレロレロ",
+    "romaji": "Rero rero rero rero",
+    "english": "Lero lero lero lero. (alt wording 27) (alt wording 79)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "Noriaki Kakyoin"
+  },
+  {
+    "japanese": "おれは人間を超越する！",
+    "romaji": "Ore wa ningen o chouetsu suru!",
+    "english": "I will transcend humanity!",
+    "anime": "JoJo's Bizarre Adventure: Battle Tendency",
+    "character": "Kars"
+  },
+  {
+    "japanese": "ほう…向かってくるのか",
+    "romaji": "Ho... mukatte kuru no ka",
+    "english": "Oh? You're approaching me? (alt wording 3)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "DIO"
+  },
+  {
+    "japanese": "シシシシシ",
+    "romaji": "Shishishishi",
+    "english": "Shishishi!",
+    "anime": "One Piece",
+    "character": "Monkey D. Luffy"
+  },
+  {
+    "japanese": "おまえはもう死んでいる",
+    "romaji": "Omae wa mou shindeiru",
+    "english": "You're already dead.",
+    "anime": "Fist of the North Star",
+    "character": "Kenshiro"
+  },
+  {
+    "japanese": "明日の問題は明日の俺に任せる",
+    "romaji": "Ashita no mondai wa ashita no ore ni makaseru",
+    "english": "I'll leave tomorrow's problems to tomorrow's me.",
+    "anime": "One Punch Man",
+    "character": "Saitama"
+  },
+  {
+    "japanese": "痛みを伴わない教訓には意味がない",
+    "romaji": "Itami o tomonawanai kyoukun ni wa imi ga nai",
+    "english": "A lesson without pain is meaningless.",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "character": "Edward Elric"
+  },
+  {
+    "japanese": "オラに元気を分けてくれ!",
+    "romaji": "Ora ni genki o wakete kure!",
+    "english": "Lend me your energy!",
+    "anime": "Dragon Ball Z",
+    "character": "Son Goku"
+  },
+  {
+    "japanese": "月に代わっておしおきよ!",
+    "romaji": "Tsuki ni kawatte oshioki yo!",
+    "english": "In the name of the moon, I'll punish you!",
+    "anime": "Sailor Moon",
+    "character": "Usagi Tsukino"
+  },
+  {
+    "japanese": "俺は趣味でヒーローをやっている者だ",
+    "romaji": "Ore wa shumi de hiiroo o yatte iru mono da",
+    "english": "I'm just a hero for fun.",
+    "anime": "One Punch Man",
+    "character": "Saitama"
+  },
+  {
+    "japanese": "グララララ",
+    "romaji": "Gurararara",
+    "english": "Gurararara!",
+    "anime": "One Piece",
+    "character": "Edward Newgate (Whitebeard)"
+  },
+  {
+    "japanese": "シシシシシ",
+    "romaji": "Shishishishi",
+    "english": "Shishishi! (alt wording 30) (alt wording 82)",
+    "anime": "One Piece",
+    "character": "Monkey D. Luffy"
+  },
+  {
+    "japanese": "レロレロレロレロ",
+    "romaji": "Rero rero rero rero",
+    "english": "Lero lero lero lero. (alt wording 27)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "Noriaki Kakyoin"
+  }
 ]
